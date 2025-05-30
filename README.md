@@ -31,7 +31,7 @@ I hold both a bachelor's and master's degree in computer science, providing me w
 
 I'm constantly seeking to stay up to date with the latest technologies and best practices in the field, and I'm excited to collaborate on new and challenging projects. Whether it's building a mobile app or a web application, I'm dedicated to creating high-quality software that meets the needs of my clients and end-users.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nuttapol-thitaweera/) ![](https://visitor-badge.glitch.me/badge?page_id=jallynme/jallynme)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nuttapol-thitaweera/) ![]
 
 ### Skills
 
